@@ -1,18 +1,16 @@
 # [WIP] Analyzing-eCommerce-Business-Performance-with-SQL
 
 ## 🔰**Introduction**
-A mini project of Data Science Bootcamp Batch 20 in [Rakamin Academy](https://www.rakamin.com/). In this project, as a **Data Analyst** from eCommerce company in South America has responsibility analyze customer growth, product quality, and payment method to enhance company business performance.
+A mini project of [Rakamin Academy](https://www.rakamin.com/). In this project, as a **Data Analyst** from eCommerce company in South America has responsibility analyze customer growth, product quality, and payment method to enhance company business performance.
 
 ## :information_source:**Dataset**
-
+Dataset can be downloaded in repositories.
 
 ## :notebook:**Problem Statement**
-
-## 🥅**Goal**
+Business performance in eCommerce for over 3 years is unknown.
 
 ## 🏹**Objective**
-
-## :pushpin:**Business Metrics**
+Analyzing eCommerce Business performance in 3 years (2016, 2017, 2018). Gather insight from the analysis with visualization and recommendation using SQL.
 
 ## 👣**Stage**
 In this project, we divide into **4 stages**:
