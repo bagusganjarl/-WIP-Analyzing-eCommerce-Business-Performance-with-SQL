@@ -1,4 +1,4 @@
-# [WIP] Analyzing-eCommerce-Business-Performance-with-SQL
+# Analyzing-eCommerce-Business-Performance-with-SQL
 
 ## 🔰**Introduction**
 A mini project of [Rakamin Academy](https://www.rakamin.com/). In this project, as a **Data Analyst** from eCommerce company in South America has responsibility analyze customer growth, product quality, and payment method to enhance company business performance.
