@@ -29,7 +29,7 @@ Gathered **insights** from the analysis with **visualization** and **recommendat
 
 ## **Analysis**
 1. **Annual Customer Activity Growth Analysis**<br>
-   Observed and analyzed eCommerce business performance growth from **customer activities**. The growth of new customers and monthly active user (MAU) are **increasing** every year. Most of the customers only did a **single purchase** for 3 years. Moreover, the value of customers who did more than one purchase every year (**repeat customers**) are **decreasing** from **2017 to 2018**.
+   Observed and analyzed eCommerce business performance growth from **customer activities**. The growth of new customers and monthly active user (MAU) are **increasing** every year. Most of the customers only did a **single purchase** for 3 years. Moreover, the value of customers who did more than one purchase every year (**repeat customers**) are **decreasing** from **2017 to 2018**. <br>
     ![Annual Customer Activity Growth Dashboard](https://user-images.githubusercontent.com/103989278/179975091-a7d007cc-de9d-428b-8227-7253642d0df2.png)<br>
    <p align="center">
     Figure 2: Annual Customer Activity Growth Dashboard
