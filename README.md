@@ -34,13 +34,13 @@ Gathered **insights** from the analysis with **visualization** and **recommendat
    <p align="center">
     Figure 2: Annual Customer Activity Growth Dashboard
    </p>
-3. **Annual Product Category Quality Analysis**
+2. **Annual Product Category Quality Analysis**<br>
    In between categories which can be impact positively (seen by revenue metric) and which can be impact negatively. Total company revenue keep **increase** each year with following by **product category** that always change. **Health & beauty** is a category that has **the most revenue** but also **the most canceled order** in **2018**. This could be health beauty is **the most dominated** category in **2018**.
    <br>![Annual Product Category Quality Dashboard](https://user-images.githubusercontent.com/103989278/179975534-a55deb0d-730d-45a7-8fcb-24772a3f0e30.png)<br>
    <p align="center">
     Figure 3: Annual Product Category Quality Dashboard
    </p>
-4. **Annual Payment Type Usage Analysis**
+3. **Annual Payment Type Usage Analysis**<br>
    Payment method that has been chosen as a favorite for customer of all the time and analyze trend transformation over year.**Credit card** is **the most favorite** payment type based on sum payment type usage. **Voucher** tend to be **decrease** from **2017 to 2018**. Besides, **debit card** tend to be **increase** significanly more than **100%** since **2016**.
    <br>![Annual Payment Type Usage Dashboard](https://user-images.githubusercontent.com/103989278/179975980-eafd7c76-0347-4339-9359-6a79f1582378.png)<br>
    <p align="center">
